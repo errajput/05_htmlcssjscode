@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(199, 213, 213);
+}
+.container {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: rgb(13, 13, 150);
+  color: white;
+  font-size: 15px;
+}
